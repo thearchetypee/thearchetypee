@@ -7,9 +7,9 @@ Android Developer
 I've been doing Android for the last 2 years and I like to solve problems using smartphones  
 
 * 🌍  I'm based in India 
-* * ✉️  You can contact me at [aayushchaudhary287@gmail.com](mailto:aayushchaudhary287@gmail.com) 
-* * 🧠  I'm learning Web3, React, Flutter 
-* * 🤝  I'm open to collaborating on Andriod and React Project
+* ✉️  You can contact me at [aayushchaudhary287@gmail.com](mailto:aayushchaudhary287@gmail.com) 
+* 🧠  I'm learning Web3, React, Flutter 
+* 🤝  I'm open to collaborating on Andriod and React Project
 
 ### Skills
 
