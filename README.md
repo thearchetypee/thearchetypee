@@ -8,7 +8,7 @@ I've been doing Android for the last 3 years and I like to solve problems using 
 
 * 🌍  I'm based in India 
 * ✉️  You can contact me at [aayushchaudhary287@gmail.com](mailto:aayushchaudhary287@gmail.com) 
-* 🧠  I'm learning React, Flutter 
+* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Andriod and React Project
 
 ### Skills
