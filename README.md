@@ -4,7 +4,7 @@ Hi 👋 My name is Aayush Chaudhary
 
 Android Developer
 ----------------- 
-I've been doing Android for the last 3 years and I like to solve problems using smartphones  
+I've been doing Android for the last 4 years and I like to solve problems using smartphones  
 
 * 🌍  I'm based in India 
 * ✉️  You can contact me at [aayushchaudhary287@gmail.com](mailto:aayushchaudhary287@gmail.com) 
